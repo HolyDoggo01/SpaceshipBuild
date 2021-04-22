@@ -1,2 +1,2 @@
-# SpaceshipBuild
- Build of a game called "Spaceship"
+# Spaceship
+Indie space shooter

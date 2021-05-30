@@ -7,3 +7,4 @@ Indie FPS. Fly in asteroid-filled void on a spaceship, kill enemies and gain poi
 - refactored all of the main game features
 - major bugfixes
 - major optimization
+- added lasers!

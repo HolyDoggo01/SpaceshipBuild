@@ -4,6 +4,7 @@ Indie FPS. Fly in asteroid-filled void on a spaceship, kill enemies and gain poi
 
 
 **Recent update:**
-- added energy mechanics: now weapons use energy while shooting and enemies drop energy orbs that restore your energy
-- added lasers!
-- major optimization
+- added sounds!
+- added health orbs that restore your health
+- added high score save mechanics: now it will save data on your computer
+- major bugfixes

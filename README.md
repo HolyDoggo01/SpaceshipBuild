@@ -4,8 +4,6 @@ Indie FPS. Fly in asteroid-filled void on a spaceship, kill enemies and gain poi
 
 
 **Recent update:**
-- added keybinds menu - now you can choose your own keybinds
-- added sounds!
-- added health orbs that restore your health
-- added high score save mechanics: now it will save data on your computer
-- major bugfixes
+- added main menu and lots of options
+
+*more of the updates' info on releases page*

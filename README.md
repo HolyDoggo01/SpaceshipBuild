@@ -1,5 +1,5 @@
 # Spaceship
-Indie FPS. Fly in asteroid-filled void on a spaceship, kill enemies and gain points!
+Indie FPS. Fly in asteroid-filled void on a spaceship, kill enemies, earn money and unlock more and more ships and guns to destroy your enemies!
 
 
 
